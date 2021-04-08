@@ -89,7 +89,12 @@
 }
 
 .chat_footer > form > button {
-    display: none;
+    display: block;
+    border-radius: 30px;
+    background-color: rgb(26, 204, 94);
+    border: none;
+    cursor: pointer;
+    font-size: small;
 }
 
 .chat_footer > .MuiSvgIcon-root {
